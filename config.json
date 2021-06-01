@@ -1,0 +1,19 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["760916106432610325"],
+        "ACTIVITY_TEXT": "RAMİZ",
+        "GUILD_ID": "833481271921475654",
+        "VOICE_CHANNEL": "837120366736441375",
+        "MIN_STAFF_ROLE": "837835030804955246"
+    },
+    "FILES": {
+        "WELCOME": "default_files/Welcome.mp3",
+        "STAFF": "default_files/Staff.mp3"
+    },
+    "TOKEN": "ODQ5NDA3NzMxNzk3NTkwMDM3.YLaumA.gpNJ9v9dY3Z0AE1qs9IlQUdTRDE"
+
+
+
+}
+
+
